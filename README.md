@@ -1,4 +1,6 @@
 # Final project Web II
+### Frontend: React
+### Backend: Laravel
 Jira is a proprietary software product for project management, based on sprints.
 This web page is a simplified copy of what is the official Jira page.
 This page includes:
