@@ -1,7 +1,7 @@
 # Final project Web II
 ### Frontend: React, Boostrap
 ### Backend: Laravel
-Jira is a proprietary software product for project management, based on sprints.
+Jira is a project management software, based on sprints.
 This web page is a simplified copy of what is the official Jira page.
 This page includes:
 * Projects
