@@ -1,0 +1,23 @@
+.label{
+  display: block;
+}
+.cerrarSesionLink{
+  text-align: left !important;
+}
+
+.sidebar {
+  background-color: #343a40; /* Cambia el color de fondo del sidebar */
+  color: white; /* Cambia el color de letra del sidebar */
+  height: 150vh; /* Establece la altura del sidebar al 100% de la altura de la pantalla */
+  padding-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+
+  .main {
+    margin-left: 0 !important;
+  }
+}
