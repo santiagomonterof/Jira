@@ -16,7 +16,7 @@ Epic > User Story > Task
 
 It has the following functionalities:
 * User(Login, Register)
-* Respective CRUD
+* Respective CRUDS
 * Current Sprint (See the current sprint with their respective stories based on a project and states)
 * Backlog(List of sprints with stories that have not been assigned)
 * Epic List(List of epics with their respective stories and tasks)
